@@ -3,4 +3,4 @@ define('CONSUMER_KEY', '**********');
 define('CONSUMER_SECRET', '**********');
 define('ACCESS_TOKEN', '**********');
 define('ACCESS_SECRET', '**********');
-define('LAST_ID_FILE', 'last_id');
+define('LAST_ID', 'last_id');
