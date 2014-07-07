@@ -1,0 +1,5 @@
+{
+	"require": {
+		"kompas/twitter-oauth": "*"
+	}
+}
